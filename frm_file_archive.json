@@ -1,0 +1,14 @@
+{
+  "FID12345": {
+    "content_type": "application\/zip",
+    "suggested_name": "tutorials-file.zip",
+    "file_path": "tempfile.zip",
+    "type": "local_file"
+  },
+  "UID09876": {
+    "content_type": "audio\/mpeg",
+    "suggested_name": "tune-tutorials.mp3",
+    "file_path": "https:\/\/www.dropbox.com\/XXXXXXX\/video.mp3?dl=1",
+    "type": "remote_file"
+  }
+}

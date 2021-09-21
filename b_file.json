@@ -1,0 +1,44 @@
+{
+  "3": {
+    "ID": "3",
+    "MODULE_ID": "iblock",
+    "HEIGHT": "150",
+    "WIDTH": "150",
+    "FILE_SIZE": "4401",
+    "CONTENT_TYPE": "image\/jpeg",
+    "SUBDIR": "",
+    "FILE_NAME": "tempfile.zip",
+    "ORIGINAL_NAME": "7a488362c2e0f0bc584012624d519232.jpg",
+    "DESCRIPTION": "",
+    "HANDLER_ID": null,
+    "EXTERNAL_ID": "fbd60303859a6a401d6eee79293a38ea"
+  },
+  "4": {
+    "ID": "89",
+    "MODULE_ID": "disk",
+    "HEIGHT": "0",
+    "WIDTH": "0",
+    "FILE_SIZE": "31744",
+    "CONTENT_TYPE": "application\/vnd.ms-excel",
+    "SUBDIR": "disk\/99c",
+    "FILE_NAME": "tempfile.zip",
+    "ORIGINAL_NAME": "invoice.xls",
+    "DESCRIPTION": "",
+    "HANDLER_ID": null,
+    "EXTERNAL_ID": "81605789db5270b5bcf44231f0e5de58"
+  },
+  "5": {
+    "ID": "118",
+    "MODULE_ID": "documentgenerator",
+    "HEIGHT": "0",
+    "WIDTH": "0",
+    "FILE_SIZE": "50514",
+    "CONTENT_TYPE": "application\/pdf",
+    "SUBDIR": "",
+    "FILE_NAME": "tempfile.zip",
+    "ORIGINAL_NAME": "\u0421\u0447\u0435\u0442 (\u0420\u043e\u0441\u0441\u0438\u044f) 3.pdf",
+    "DESCRIPTION": "",
+    "HANDLER_ID": null,
+    "EXTERNAL_ID": "e285eaeaf91c9e8d9fe9c2065f8d19a4"
+  }
+}

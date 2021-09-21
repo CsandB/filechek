@@ -1,0 +1,17 @@
+{
+  "103": {
+    "B_FILE_ID": "3",
+    "MODULE_ID": "firm.otdelenie1",
+    "ENTITY_ID": "sprawka"
+  },
+  "104": {
+    "B_FILE_ID": "4",
+    "MODULE_ID": "firm.otdelenie1",
+    "ENTITY_ID": "konsultazia"
+  },
+  "105": {
+    "B_FILE_ID": "5",
+    "MODULE_ID": "firm.otdelenie2",
+    "ENTITY_ID": "komandirowka"
+  }
+}
